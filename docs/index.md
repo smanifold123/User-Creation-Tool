@@ -1,4 +1,3 @@
-# User‑Creation‑Tool
 A lightweight, secure, and automated tool for creating Active Directory user accounts using predefined templates. Designed for IT admins who need fast, repeatable, and error‑free provisioning.
 
 ---
