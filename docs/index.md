@@ -2,58 +2,54 @@ A lightweight, secure, and automated tool for creating Active Directory user acc
 
 ---
 
-## 🚀 Features
-- Template‑based user creation  
-- Automatic group assignment  
-- Password generation & validation  
-- Logging of all actions  
-- Simple GUI for super‑users  
-- No external dependencies  
-
----
-
 ## 📥 Download
 👉 **[Download Latest Release](https://github.com/smanifold123/User-Creation-Tool/releases/latest)**
 
 ---
 
-## 📸 Screenshot Gallery
+## 🖼️ Screenshot Gallery
 
-### Reset Password – Main Window  
-<img src="assets/Reset Password - Main Window.jpg" width="800"/>
+### Dashboard
+<img src="assets/Dashboard.jpg" width="800"/>
 
-### Reset Password – Summary  
-<img src="assets/Reset Password - Summary.jpg" width="800"/>
+### Reset Password
+<img src="assets/Reset Password.jpg" width="800"/>
 
-### Create User – Main Window  
-<img src="assets/Create User - Main Window.jpg" width="800"/>
+### Reset Password – Results
+<img src="assets/Reset Password - Results.jpg" width="800"/>
 
-### Create User – Template Selection  
-<img src="assets/Create User - Template Selection.jpg" width="800"/>
+### Create User
+<img src="assets/Create User.jpg" width="800"/>
 
-### Create User – Summary  
-<img src="assets/Create User - Summary.jpg" width="800"/>
+### Create User – Clone
+<img src="assets/Create User - Clone.jpg" width="800"/>
 
-### Disable User – Main Window  
-<img src="assets/Disable User - Main Window.jpg" width="800"/>
+### Disable User – Search
+<img src="assets/Disable User - Search.jpg" width="800"/>
 
-### Disable User – Summary  
-<img src="assets/Disable User - Summary.jpg" width="800"/>
+### Disable User – Expire
+<img src="assets/Disable User - Expire.jpg" width="800"/>
 
-### Template – Main Window  
-<img src="assets/Template - Main Window.jpg" width="800"/>
+### User Templates
+<img src="assets/User Templates.jpg" width="800"/>
 
-### Settings – Main Window  
-<img src="assets/Settings - Main Window.jpg" width="800"/>
+### Settings – Part 1
+<img src="assets/Settings - Part1.jpg" width="800"/>
 
-### Check Encryption – Main Window  
-<img src="assets/Check Encryption - Main Window.jpg" width="800"/>
+### Settings – Part 2
+<img src="assets/Settings - Part2.jpg" width="800"/>
 
-### Check Policy – Main Window  
-<img src="assets/Check Policy - Main Window.jpg" width="800"/>
+### Domain Check
+<img src="assets/Domain Check working.jpg" width="800"/>
 
-### Check RSAT – Main Window  
-<img src="assets/Check RSAT - Main Window.jpg" width="800"/>
+### RSAT Check
+<img src="assets/RSAT Check working.jpg" width="800"/>
+
+### Encryption Check
+<img src="assets/encryption working.jpg" width="800"/>
+
+### Policy Check
+<img src="assets/policy check working.jpg" width="800"/>
 
 ---
 
